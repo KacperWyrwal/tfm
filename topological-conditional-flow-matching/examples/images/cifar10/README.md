@@ -1,8 +1,9 @@
 # Topological Flow Matching (image generation)
 
 This repository can be used to reproduce the image generation experiments on the CIFAR-10 dataset in Topological Flow Matching.
+First, please follow the installation instructions at [topological-conditional-flow-matching/README.md](../../../README.md) 
 
-To reproduce the experiments, start by training the models. 
+Then, to reproduce the experiments, start by training the models. 
 For the I-CFM and OT-CFM models, please run
 
 ```bash
