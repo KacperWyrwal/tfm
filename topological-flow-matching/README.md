@@ -1,4 +1,4 @@
-# Topological Flow Matching 
+# Topological Flow Matching (Topological experiments)
 Repository for the earthquake, traffic flow, ocean current, single-cell differentiation, and brain fMRI experiments in Topological Flow Matching.
 
 Please first set up a new virtual environment and, after activating it, run
