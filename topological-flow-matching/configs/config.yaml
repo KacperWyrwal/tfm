@@ -1,0 +1,24 @@
+defaults:
+  - data: gaussians_to_moons 
+  - frame: spectral
+  - hydra: default 
+  - model: residual_nn
+  - ot: default
+  - plot: default
+  - plot/history: default
+  - plot/predictions: default
+  - run: default 
+  - sde: topological_heat_bm 
+  - sde_solver: euler_maruyama 
+  - test: default
+  - time_sampler: discrete
+  - train: default
+  - train/optimizer: adamw
+  - train/ema: default
+  - train/coupling: online_ot
+  - train/objective: default
+  - train/early_stopping: default
+  - train/time_sampler: discrete
+  - validation: default
+  - experiment: ??
+  - _self_
